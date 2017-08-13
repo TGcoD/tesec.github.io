@@ -2,7 +2,7 @@
 title: TEsec 
 description: "Aprendizagem..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://tesec.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "http://tesec.github.io/" 
 # User settings
 username: TEsec
 user_title: TEsec - FrontEnd
