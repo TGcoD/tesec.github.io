@@ -1,7 +1,7 @@
 {
-  "name": "victorigortemplate",
+  "name": "thyago",
   "version": "1.0.0",
-  "description": "My jekyll blog template.",
+  "description": "rsrs",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
@@ -15,7 +15,7 @@
     "jekyll",
     "js"
   ],
-  "author": "Victor Igor",
+  "author": "thyago",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
