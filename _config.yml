@@ -4,15 +4,14 @@ description: "Aprendizagem..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://tesec.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: Thyago
+username: TEsec
 user_title: TEsec - FrontEnd
-email: lorem.lorem@ipsum.com
+email: tesec111@hotmail.com
 twitter_username: tesec
 github_username:  tesec
 gplus_username:  tesec
 disqus_username: tesec
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
-
+profile_picture: 
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -33,11 +32,11 @@ links:
   - title: Postagem
     url: /posts
   - title: Outros
-    url: /outros
+    url: /Outros
   - title: TEsec
-    url: /tags
+    url: /TEsec
   - title: Sobre
-    url: /sobre
+    url: /Sobre
  
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
