@@ -5,7 +5,7 @@ baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://tesec.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Thyago
-user_title: Lorem Ipsum - FrontEnd
+user_title: TEsec - FrontEnd
 email: lorem.lorem@ipsum.com
 twitter_username: tesec
 github_username:  tesec
@@ -32,12 +32,12 @@ links:
     url: /
   - title: Postagem
     url: /posts
-  - title: series
-    url: /series
-  - title: tags
+  - title: Outros
+    url: /outros
+  - title: TEsec
     url: /tags
   - title: Sobre
-    url: /about
+    url: /sobre
  
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
