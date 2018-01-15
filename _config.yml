@@ -1,16 +1,13 @@
 # Site settings
-title: TEsec 
-description: "Aprendizagem..."
+title: TYSEC
+description: "Proteção"
 baseurl: "" # for test: remove string '/rsrs' to ''
-url: "http://tesec.github.io/" 
+url: "http://tysec.github.io/" 
 # User settings
-username: TEsec
-user_title: TEsec - FrontEnd
-email: tyseccorp@gmail.com
-twitter_username: tesec
+username: TySec
+user_title: TySec - FrontEnd
+email: tyseccorporate@gmail.com
 github_username:  tesec
-gplus_username:  tesec
-disqus_username: tesec
 profile_picture: http://i.imgur.com/vgQnHIn.jpg
 # Build settings
 markdown: kramdown
